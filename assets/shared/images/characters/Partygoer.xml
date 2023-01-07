@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Partygoer.png">
+<SubTexture name="Partygoer idle0000" x="715" y="2018" width="816" height="920" frameX="-504" frameY="-91" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Partygoer idle0001" x="2343" y="989" width="693" height="976" frameX="-564" frameY="-41" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Partygoer idle0002" x="0" y="1013" width="667" height="1005" frameX="-577" frameY="-15" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Partygoer idle0003" x="1622" y="1013" width="649" height="995" frameX="-591" frameY="-28" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Partygoer sing up0000" x="724" y="0" width="799" height="1006" frameX="-498" frameY="-4" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Partygoer sing up0001" x="0" y="2018" width="715" height="986" frameX="-536" frameY="-19" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Partygoer sing down0000" x="3048" y="0" width="920" height="829" frameX="-473" frameY="-162" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Partygoer sing down0001" x="1531" y="2018" width="823" height="856" frameX="-554" frameY="-141" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Partygoer sing left0000" x="667" y="1013" width="955" height="1000" frameX="-300" frameY="-25" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Partygoer sing left0001" x="1523" y="0" width="820" height="1006" frameX="-445" frameY="-16" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Partygoer sing right0000" x="0" y="0" width="724" height="1013" frameX="-614" frameY="-8" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Partygoer sing right0001" x="2343" y="0" width="705" height="989" frameX="-605" frameY="-31" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>
