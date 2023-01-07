@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 12,
+			"name": "partygoer 2nd phase Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "partygoer 2nd phase sing left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "partygoer 2nd phase sing d",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "partygoer 2nd phase sing u",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "partygoer 2nd phase sing r",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP-alt",
+			"fps": 12,
+			"name": "partygoer 2nd phase scream",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/spookgoer",
+	"position": [
+		-650,
+		-220
+	],
+	"healthicon": "partygoer-b",
+	"flip_x": false,
+	"healthbar_colors": [
+		122,
+		100,
+		0
+	],
+	"camera_position": [
+		0,
+		-140
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

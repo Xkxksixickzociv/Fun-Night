@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "smiler_i"
+		},
+		{
+			"offsets": [
+				40,
+				60
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "smiler_l"
+		},
+		{
+			"offsets": [
+				-10,
+				-30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "smiler_d"
+		},
+		{
+			"offsets": [
+				-20,
+				170
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "smiler_u"
+		},
+		{
+			"offsets": [
+				-50,
+				20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "smiler_r"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/smiler",
+	"position": [
+		0,
+		150
+	],
+	"healthicon": "partygoer-b",
+	"flip_x": false,
+	"healthbar_colors": [
+		122,
+		100,
+		0
+	],
+	"camera_position": [
+		-40,
+		90
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
