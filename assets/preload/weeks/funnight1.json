@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"Unknown Celebration",
+			"partygoer-a",
+			[
+				255,
+				255,
+				100
+			]
+		],
+		[
+			"No More Cake",
+			"partygoer-b",
+			[
+				135,
+				135,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "What A Party",
+	"weekName": "Partygoers",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
